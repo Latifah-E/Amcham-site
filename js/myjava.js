@@ -1,0 +1,90 @@
+
+
+$('.main-slide').owlCarousel({
+    loop:true,
+    margin:8,
+    responsiveClass:true,
+    autoplay:true,
+    autoplayHoverPause:true,
+    nav:true,
+    dots:false,
+    dotsEach:true,
+    responsive:{
+        0:{
+            items:1,
+            nav:false,
+            stagePadding:0,
+            loop:true
+        },
+        600:{
+            items:1,
+            nav:false,
+            loop:true
+        },
+        1000:{
+            items:1,
+            nav:true,
+            loop:true
+        }
+    }
+})
+function ReadMore()
+{
+    window.location="ReadMore.html";
+}
+$('.news-slide').owlCarousel({
+    loop:true,
+    margin:20,
+    responsiveClass:true,
+    autoplay:true,
+    autoplayHoverPause:true,
+    nav:true,
+    dots:true,
+    dotsEach:true,
+    responsive:{
+        0:{
+            items:1,
+            nav:false,
+            loop:true,
+            dots:false
+        },
+        800:{
+            items:2,
+            nav:false,
+            loop:true
+        },
+        1000:{
+            items:3,
+            nav:true,
+            loop:true
+        }
+    }
+})
+$('.membership-slide').owlCarousel({
+    loop:true,
+    margin:20,
+    responsiveClass:true,
+    autoplay:true,
+    autoplayHoverPause:true,
+    nav:false,
+    dots:false,
+    dotsEach:false,
+    responsive:{
+        0:{
+            items:1,
+            nav:false,
+            loop:true,
+            dots:false
+        },
+        800:{
+            items:1,
+            nav:false,
+            loop:true
+        },
+        1000:{
+            items:1,
+            nav:false,
+            loop:true
+        }
+    }
+})

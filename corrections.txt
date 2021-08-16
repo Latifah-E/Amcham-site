@@ -1,0 +1,16 @@
+-The css folder must contain only css files.
+-The images in css folder must be in images or assets folder.
+- mycss.js is not a proper naming convention try somethin like index.css
+ or the name of the section or the page you are styling.
+-The jquery folder is redundat the jquery script must be in js folder.
+-In the js folder you should either have boostrap bundle js or minified version.
+I propose you should use the minified version
+- The same applies to the boostrap files.
+-  myjava.js is not the proper naming convention try somethin like index.js 
+or the name of the script like you did in "gallery.js".
+- Javascript script of the owl library is duplicated in multiple files. 
+Just make one js script and include it in all html files. key DRY( Don't repeat yourself)
+- Avoid importing the scripts and libraries from internet just try to download the files and include 
+them in your project.
+-  Dont forget to add alt property in the img element. It is good for SEO and screen readers.
+

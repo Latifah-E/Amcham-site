@@ -235,7 +235,7 @@ button.contact-submitter {
 }
 /* main slider */
 .owl-carousel .owl-nav button.owl-prev, .owl-carousel button.owl-dot span{
-    background: url("/Images/prev.png");
+    background: url("../Images/prev.png");
     background-repeat: no-repeat;
     color: transparent;
     width: 5%;
@@ -243,7 +243,7 @@ button.contact-submitter {
     margin-right: 40%;
 }
 .owl-carousel .owl-nav button.owl-next, .owl-carousel button.owl-dot span{
-    background: url("/Images/next.png");
+    background: url("../Images/next.png");
     background-repeat: no-repeat;
     color: transparent;
     width: 5%;
@@ -251,7 +251,7 @@ button.contact-submitter {
     margin-left: 40%;
 }
 .owl-theme .owl-nav [class*='owl-prev']:hover{
-    background: url("/Images/prev.png");
+    background: url("../Images/prev.png");
     background-repeat: no-repeat;
     color: transparent;
     width: 5%;
@@ -259,7 +259,7 @@ button.contact-submitter {
     margin-right: 40%;
 }
 .owl-theme .owl-nav [class*='owl-next']:hover {
-    background: url("/Images/next.png");
+    background: url("../Images/next.png");
     background-repeat: no-repeat;
     color: transparent;
     width: 5%;
@@ -833,7 +833,7 @@ p.news-head{
     display: inherit;
 }
 .news-slide .owl-nav button.owl-prev, .owl-carousel button.owl-dot span {
-    background: url("/Images/Previous.png");
+    background: url("../Images/Previous.png");
     background-repeat: no-repeat;
     color: transparent;
     width: 10%;
@@ -841,7 +841,7 @@ p.news-head{
     margin-right: 0;
 }
 .news-slide .owl-nav [class*='owl-prev']:hover{
-    background: url("/Images/Previous.png");
+    background: url("../Images/Previous.png");
     background-repeat: no-repeat;
     color: transparent;
     width: 10%;
@@ -849,7 +849,7 @@ p.news-head{
     margin-right: 0;
 }
 .news-slide .owl-nav button.owl-next, .owl-carousel button.owl-dot span {
-    background: url("/Images/Next-page.png");
+    background: url("../Images/Next-page.png");
     background-repeat: no-repeat;
     color: transparent;
     width: 10%;
@@ -857,7 +857,7 @@ p.news-head{
     margin-left: 10%;
 }
 .news-slide .owl-nav [class*='owl-next']:hover{
-    background: url("/Images/Next-page.png");
+    background: url("../Images/Next-page.png");
     background-repeat: no-repeat;
     color: transparent;
     width: 10%;
@@ -1089,7 +1089,7 @@ button.submitter{
         margin-left: 40.5%;
     }
     .news-slide .owl-nav button.owl-prev, .owl-carousel button.owl-dot span {
-        background: url(/Images/Previous.png);
+        background: ("Images/Previous.png");
         background-repeat: no-repeat;
         color: transparent;
         width: 7%;
@@ -1097,7 +1097,7 @@ button.submitter{
         margin-right: 0px;
     }
     .news-slide .owl-nav button.owl-prev, .owl-carousel button.owl-dot span {
-        background: url(/Images/Previous.png);
+        background: ("Images/Previous.png");
         background-repeat: no-repeat;
         color: transparent;
         width: 7%;
@@ -1234,7 +1234,7 @@ button.submitter{
         font-size: 16px;
     }
     .news-slide .owl-nav button.owl-prev, .owl-carousel button.owl-dot span {
-        background: url("/Images/Previous.png");
+        background: url("../Images/Previous.png");
         background-repeat: no-repeat;
         color: transparent;
         width: 10%;
@@ -1243,7 +1243,7 @@ button.submitter{
     }
 
     .news-slide .owl-nav [class*='owl-prev']:hover{
-    background: url("/Images/Previous.png");
+    background: url("../Images/Previous.png");
     background-repeat: no-repeat;
     color: transparent;
     width: 10%;
@@ -1484,7 +1484,7 @@ button.submitter{
         font-size: 10px;
     }
     .owl-carousel .owl-nav button.owl-prev, .owl-carousel button.owl-dot span {
-        background: url("/Images/prev.png");
+        background: url("../Images/prev.png");
         background-repeat: no-repeat;
         color: transparent;
         width: 6%;
@@ -1492,7 +1492,7 @@ button.submitter{
         margin-right: 27%;
     }
     .owl-carousel .owl-nav button.owl-next, .owl-carousel button.owl-dot span {
-        background: url("/Images/next.png");
+        background: url("../Images/next.png");
         background-repeat: no-repeat;
         color: transparent;
         width: 6%;
@@ -1500,7 +1500,7 @@ button.submitter{
         margin-left: 39%;
     }
     .owl-theme .owl-nav [class*='owl-prev']:hover{
-        background: url("/Images/prev.png");
+        background: url("../Images/prev.png");
         background-repeat: no-repeat;
         color: transparent;
         width: 6%;
@@ -1508,7 +1508,7 @@ button.submitter{
         margin-right: 27%;
     }
     .owl-theme .owl-nav [class*='owl-next']:hover {
-        background: url("/Images/next.png");
+        background: url("../Images/next.png");
         background-repeat: no-repeat;
         color: transparent;
         width: 6%;
@@ -1648,7 +1648,7 @@ button.submitter{
         font-size: 14px;
     }
     .news-slide .owl-nav button.owl-prev, .owl-carousel button.owl-dot span {
-        background: url("/Images/Previous.png");
+        background: url("../Images/Previous.png");
         background-repeat: no-repeat;
         color: transparent;
         width: 18%;
@@ -1656,7 +1656,7 @@ button.submitter{
         margin-right: 9%;
     }
     .news-slide .owl-nav [class*='owl-prev']:hover{
-        background: url("/Images/Previous.png");
+        background: url("../Images/Previous.png");
         background-repeat: no-repeat;
         color: transparent;
         width: 18%;
@@ -1664,7 +1664,7 @@ button.submitter{
         margin-right: 9%;
     }
     .news-slide .owl-nav button.owl-next, .owl-carousel button.owl-dot span {
-        background: url("/Images/Next-page.png");
+        background: url("../Images/Next-page.png");
         background-repeat: no-repeat;
         color: transparent;
         width: 10%;
@@ -1672,7 +1672,7 @@ button.submitter{
         margin-left: 10%;
     }
     .news-slide .owl-nav [class*='owl-next']:hover{
-        background: url("/Images/Next-page.png");
+        background: url("../Images/Next-page.png");
         background-repeat: no-repeat;
         color: transparent;
         width: 10%;
@@ -1840,7 +1840,7 @@ button.submitter {
         margin-bottom: 0px;
     }
     .owl-carousel .owl-nav button.owl-next, .owl-carousel button.owl-dot span {
-        background: url(/Images/next.png);
+        background: url("../Images/next.png");
         background-repeat: no-repeat;
         color: transparent;
         width: 8%;
@@ -1848,7 +1848,7 @@ button.submitter {
         margin-left: 39%;
     }
     .owl-carousel .owl-nav button.owl-prev, .owl-carousel button.owl-dot span {
-        background: url(/Images/prev.png);
+        background: url("../Images/prev.png");
         background-repeat: no-repeat;
         color: transparent;
         width: 8%;
@@ -1856,7 +1856,7 @@ button.submitter {
         margin-right: 27%;
     }
     .owl-theme .owl-nav [class*='owl-next']:hover {
-        background: url(/Images/next.png);
+        background: url("../Images/next.png");
         background-repeat: no-repeat;
         color: transparent;
         width: 8%;
@@ -1864,7 +1864,7 @@ button.submitter {
         margin-left: 39%;
     }
     .owl-theme .owl-nav [class*='owl-prev']:hover {
-        background: url(/Images/prev.png);
+        background: url("../Images/prev.png");
         background-repeat: no-repeat;
         color: transparent;
         width: 8%;
@@ -1927,7 +1927,7 @@ button.submitter {
         padding: 10px 0;
     }
     .owl-carousel .owl-nav button.owl-next, .owl-carousel button.owl-dot span {
-        background: url(/Images/next.png);
+        background: url("../Images/next.png");
         background-repeat: no-repeat;
         color: transparent;
         width: 8%;
@@ -1935,7 +1935,7 @@ button.submitter {
         margin-left: 39%;
     }
     .owl-carousel .owl-nav button.owl-prev, .owl-carousel button.owl-dot span {
-        background: url(/Images/prev.png);
+        background: url("../Images/prev.png");
         background-repeat: no-repeat;
         color: transparent;
         width: 8%;
@@ -1943,7 +1943,7 @@ button.submitter {
         margin-right: 27%;
     }
     .owl-theme .owl-nav [class*='owl-prev']:hover {
-        background: url(/Images/prev.png);
+        background: url("../Images/prev.png");
         background-repeat: no-repeat;
         color: transparent;
         width: 8%;
@@ -1951,7 +1951,7 @@ button.submitter {
         margin-right: 27%;
     }
     .owl-theme .owl-nav [class*='owl-next']:hover {
-        background: url(/Images/next.png);
+        background: url("../Images/next.png");
         background-repeat: no-repeat;
         color: transparent;
         width: 8%;
@@ -1986,7 +1986,7 @@ button.submitter {
         margin-bottom: 133px;
     }
     .news-slide .owl-nav button.owl-prev, .owl-carousel button.owl-dot span {
-        background: url(/Images/Previous.png);
+        background: url("../Images/Previous.png");
         background-repeat: no-repeat;
         color: transparent;
         width: 18%;
@@ -1998,7 +1998,7 @@ button.submitter {
     height: 456px;
     }
     .news-slide .owl-nav [class*='owl-prev']:hover{
-        background: url("/Images/Previous.png");
+        background: url("../Images/Previous.png");
         background-repeat: no-repeat;
         color: transparent;
         width: 18%;
@@ -2006,7 +2006,7 @@ button.submitter {
         margin-right: 18%;
     }
     .news-slide .owl-nav button.owl-next, .owl-carousel button.owl-dot span {
-        background: url("/Images/Next-page.png");
+        background: url("../Images/Next-page.png");
         background-repeat: no-repeat;
         color: transparent;
         width: 10%;
@@ -2014,7 +2014,7 @@ button.submitter {
         margin-left: 10%;
     }
     .news-slide .owl-nav [class*='owl-next']:hover{
-        background: url("/Images/Next-page.png");
+        background: url("../Images/Next-page.png");
         background-repeat: no-repeat;
         color: transparent;
         width: 10%;
@@ -2234,7 +2234,7 @@ span p.news-deets img.map2 {
     }
 
 .owl-carousel .owl-nav button.owl-next, .owl-carousel button.owl-dot span {
-    background: url(/Images/next.png);
+    background: url("../Images/next.png");
     background-repeat: no-repeat;
     color: transparent;
     width: 11%;
@@ -2242,7 +2242,7 @@ span p.news-deets img.map2 {
     margin-left: 39%;
 }
 .owl-carousel .owl-nav button.owl-prev, .owl-carousel button.owl-dot span {
-    background: url(/Images/prev.png);
+    background: url("../Images/prev.png");
     background-repeat: no-repeat;
     color: transparent;
     width: 11%;
@@ -2250,7 +2250,7 @@ span p.news-deets img.map2 {
     margin-right: 27%;
 }
 .owl-theme .owl-nav [class*='owl-next']:hover {
-    background: url(/Images/next.png);
+    background: url("../Images/next.png");
     background-repeat: no-repeat;
     color: transparent;
     width: 11%;
@@ -2258,7 +2258,7 @@ span p.news-deets img.map2 {
     margin-left: 39%;
 }
 .owl-theme .owl-nav [class*='owl-prev']:hover {
-    background: url(/Images/prev.png);
+    background: url("../Images/prev.png");
     background-repeat: no-repeat;
     color: transparent;
     width: 11%;
